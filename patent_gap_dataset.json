@@ -1,0 +1,170 @@
+[
+  {
+    "patent_id": "AIH-001",
+    "gap_label": "Yes",
+    "gap_type": "Data Dependency and Deployment Gap",
+    "gap_reason": "Requires high-quality continuous EHR data and lacks deployment feasibility in low-resource or rural ICUs.",
+    "potential_research_direction": "Develop robust missing-data handling models and lightweight edge-compatible ICU prediction systems."
+  },
+  {
+    "patent_id": "AIH-002",
+    "gap_label": "Yes",
+    "gap_type": "Hardware Scalability Gap",
+    "gap_reason": "Battery constraints limit long-term monitoring and scalability for continuous outpatient usage.",
+    "potential_research_direction": "Energy-efficient model compression and ultra-low-power AI chip integration."
+  },
+  {
+    "patent_id": "AIH-003",
+    "gap_label": "Yes",
+    "gap_type": "Bias and Generalization Gap",
+    "gap_reason": "Model bias toward specific demographic training data reduces cross-population reliability.",
+    "potential_research_direction": "Bias-aware training with federated multi-demographic datasets."
+  },
+  {
+    "patent_id": "AIH-004",
+    "gap_label": "Yes",
+    "gap_type": "Experimental Validation Gap",
+    "gap_reason": "Computational predictions require wet-lab validation and lack automated experimental integration.",
+    "potential_research_direction": "Closed-loop AI with robotic lab automation and active learning feedback."
+  },
+  {
+    "patent_id": "AIH-005",
+    "gap_label": "Yes",
+    "gap_type": "Privacy and Cross-Device Integration Gap",
+    "gap_reason": "Federated learning approach raises privacy and synchronization challenges across heterogeneous devices.",
+    "potential_research_direction": "Secure aggregation protocols with adaptive personalization layers."
+  },
+  {
+    "patent_id": "AIH-006",
+    "gap_label": "Yes",
+    "gap_type": "Computational Scalability Gap",
+    "gap_reason": "High computational cost for gigapixel pathology images limits deployment in smaller hospitals.",
+    "potential_research_direction": "Hierarchical patch-based transformers with model pruning."
+  },
+  {
+    "patent_id": "AIH-007",
+    "gap_label": "Yes",
+    "gap_type": "Population-Specific Performance Gap",
+    "gap_reason": "Reduced accuracy in obese patients indicates limited physiological generalization.",
+    "potential_research_direction": "Adaptive models trained across diverse BMI distributions."
+  },
+  {
+    "patent_id": "AIH-008",
+    "gap_label": "Yes",
+    "gap_type": "Data Availability Gap",
+    "gap_reason": "Requires extensive longitudinal patient data not universally available.",
+    "potential_research_direction": "Synthetic patient simulation environments for RL pre-training."
+  },
+  {
+    "patent_id": "AIH-009",
+    "gap_label": "Yes",
+    "gap_type": "Demographic Generalization Gap",
+    "gap_reason": "Limited cross-ethnic generalization in multimodal Alzheimer prediction.",
+    "potential_research_direction": "Global federated multimodal datasets with fairness-aware optimization."
+  },
+  {
+    "patent_id": "AIH-010",
+    "gap_label": "Yes",
+    "gap_type": "Signal Robustness Gap",
+    "gap_reason": "Accuracy degrades during physical activity due to motion artifacts.",
+    "potential_research_direction": "Motion-compensated signal filtering with sensor fusion."
+  },
+  {
+    "patent_id": "AIH-011",
+    "gap_label": "Yes",
+    "gap_type": "Input Quality Dependency Gap",
+    "gap_reason": "Requires high-resolution retinal images, limiting rural screening deployment.",
+    "potential_research_direction": "Super-resolution pre-processing models for low-cost cameras."
+  },
+  {
+    "patent_id": "AIH-012",
+    "gap_label": "Yes",
+    "gap_type": "Infrastructure Dependency Gap",
+    "gap_reason": "Depends on high-performance computing resources, limiting accessibility.",
+    "potential_research_direction": "Distributed lightweight molecular modeling frameworks."
+  },
+  {
+    "patent_id": "AIH-013",
+    "gap_label": "Yes",
+    "gap_type": "User Compliance Gap",
+    "gap_reason": "Model effectiveness relies on consistent device usage by patients.",
+    "potential_research_direction": "Passive monitoring systems integrated with environmental IoT."
+  },
+  {
+    "patent_id": "AIH-014",
+    "gap_label": "Yes",
+    "gap_type": "Interpretability Reliability Gap",
+    "gap_reason": "Saliency maps may highlight non-causal correlations, risking misinterpretation.",
+    "potential_research_direction": "Causal explainability frameworks for medical imaging AI."
+  },
+  {
+    "patent_id": "AIH-015",
+    "gap_label": "Yes",
+    "gap_type": "False Positive Risk Gap",
+    "gap_reason": "Emotionally expressive users may trigger incorrect crisis alerts.",
+    "potential_research_direction": "Context-aware longitudinal conversational modeling."
+  },
+  {
+    "patent_id": "AIH-016",
+    "gap_label": "Yes",
+    "gap_type": "Self-Reported Data Reliability Gap",
+    "gap_reason": "Dependent on accurate manual dietary input from patients.",
+    "potential_research_direction": "Automated meal recognition using computer vision."
+  },
+  {
+    "patent_id": "AIH-017",
+    "gap_label": "Yes",
+    "gap_type": "Communication Scalability Gap",
+    "gap_reason": "Federated communication overhead increases with participating hospitals.",
+    "potential_research_direction": "Adaptive client selection and compression-aware federated learning."
+  },
+  {
+    "patent_id": "AIH-018",
+    "gap_label": "Yes",
+    "gap_type": "Usability Adoption Gap",
+    "gap_reason": "Limited usability among elderly populations unfamiliar with apps.",
+    "potential_research_direction": "Voice-assisted and zero-UI inhaler feedback systems."
+  },
+  {
+    "patent_id": "AIH-019",
+    "gap_label": "Yes",
+    "gap_type": "Clinical Interpretability Gap",
+    "gap_reason": "Self-supervised models lack transparency for physician validation.",
+    "potential_research_direction": "Hybrid symbolic-neural rare disease detection models."
+  },
+  {
+    "patent_id": "AIH-020",
+    "gap_label": "Yes",
+    "gap_type": "System Integration Gap",
+    "gap_reason": "Limited integration with external primary care and cross-institution systems.",
+    "potential_research_direction": "Interoperable healthcare APIs using FHIR standards."
+  },
+  {
+    "patent_id": "AIH-021",
+    "gap_label": "Yes",
+    "gap_type": "Input Variability Gap",
+    "gap_reason": "Prediction consistency affected by smartphone image quality variability.",
+    "potential_research_direction": "Standardized image calibration modules in mobile apps."
+  },
+  {
+    "patent_id": "AIH-022",
+    "gap_label": "Yes",
+    "gap_type": "Data Structure Dependency Gap",
+    "gap_reason": "System depends heavily on structured EHR documentation quality.",
+    "potential_research_direction": "Robust NLP pipelines for noisy and semi-structured records."
+  },
+  {
+    "patent_id": "AIH-023",
+    "gap_label": "Yes",
+    "gap_type": "False Alarm Scalability Gap",
+    "gap_reason": "False alarms during intense activity may reduce trust and adoption.",
+    "potential_research_direction": "Context-aware activity recognition integration."
+  },
+  {
+    "patent_id": "AIH-024",
+    "gap_label": "Yes",
+    "gap_type": "Sparse Data Performance Gap",
+    "gap_reason": "Prediction accuracy decreases with sparse microbial datasets.",
+    "potential_research_direction": "Meta-learning for low-sample resistance prediction."
+  }
+]
